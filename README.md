@@ -1,0 +1,1 @@
+# actions-stale-v6.0.1
